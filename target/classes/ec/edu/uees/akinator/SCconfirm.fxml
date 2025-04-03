@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane stylesheets="@retroprim.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ec.edu.uees.akinator.SecondaryController">
+   <children>
+      <BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="446.0" prefWidth="814.0">
+         <center>
+            <VBox alignment="CENTER" prefHeight="301.0" prefWidth="773.0" BorderPane.alignment="CENTER" />
+         </center>
+         <bottom>
+            <VBox prefHeight="107.0" prefWidth="814.0" BorderPane.alignment="CENTER">
+               <children>
+                  <HBox prefHeight="32.0" prefWidth="814.0" styleClass="textured-box" VBox.vgrow="ALWAYS" />
+                  <HBox alignment="CENTER" prefHeight="79.0" prefWidth="814.0" styleClass="textured-box1" VBox.vgrow="ALWAYS" />
+               </children>
+            </VBox>
+         </bottom>
+      </BorderPane>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <ImageView fitHeight="549.0" fitWidth="763.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@ventana.png" />
+               </image>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets bottom="70.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="580.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@almohada.png" />
+               </image>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets bottom="6.0" left="110.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="TOP_RIGHT" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="417.0" fitWidth="278.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@luz.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="368.0" fitWidth="303.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@luz.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <StackPane prefWidth="661.0" StackPane.alignment="BOTTOM_CENTER">
+         <padding>
+            <Insets left="200.0" top="200.0" />
+         </padding>
+      </StackPane>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fx:id="imgGenio" fitHeight="349.0" fitWidth="275.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@genio_4.png" />
+               </image></ImageView>
+         </children>
+         <padding>
+            <Insets bottom="110.0" left="200.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="248.0" fitWidth="349.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets bottom="450.0" left="460.0" />
+               </VBox.margin>
+               <image>
+                  <Image url="@burbuja1.png" />
+               </image>
+            </ImageView>
+         </children>
+         <StackPane.margin>
+            <Insets />
+         </StackPane.margin>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <Label fx:id="lblAnimal" alignment="CENTER" contentDisplay="CENTER" prefHeight="134.0" prefWidth="258.0" styleClass="textfield-akinator" textAlignment="CENTER" wrapText="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Label>
+         </children>
+         <padding>
+            <Insets bottom="500.0" left="450.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <padding>
+            <Insets bottom="200.0" right="300.0" />
+         </padding>
+         <children>
+            <BorderPane fx:id="borderPane" prefHeight="258.0" prefWidth="485.0">
+               <center>
+                  <ImageView fx:id="imageView" fitHeight="257.0" fitWidth="338.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+               </center>
+               <VBox.margin>
+                  <Insets bottom="200.0" left="50.0" right="110.0" />
+               </VBox.margin>
+            </BorderPane>
+         </children>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <Button contentDisplay="CENTER" mnemonicParsing="false" onAction="#sonidoVictoria" onMouseClicked="#preguntarCorrecto" style="-fx-background-color: transparent;" styleClass="textfield-akinator" text="Sí">
+               <graphic>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@boton.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button contentDisplay="CENTER" mnemonicParsing="false" onMouseClicked="#preguntarIncorrecto" style="-fx-background-color: transparent;" styleClass="textfield-akinator" text="No">
+               <graphic>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@boton.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+         <padding>
+            <Insets bottom="200.0" right="300.0" />
+         </padding>
+      </VBox>
+   </children>
+</StackPane>

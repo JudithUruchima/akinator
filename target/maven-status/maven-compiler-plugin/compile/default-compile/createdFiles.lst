@@ -1,0 +1,14 @@
+ec\edu\uees\akinator\AkinatorGame.class
+ec\edu\uees\akinator\SoundFX.class
+modelo\BT.class
+modelo\BT$Node.class
+ec\edu\uees\akinator\HumoAnimator.class
+ec\edu\uees\akinator\WikipediaImageFetcher.class
+module-info.class
+ec\edu\uees\akinator\Animacion.class
+ec\edu\uees\akinator\App.class
+ec\edu\uees\akinator\MusicPlayer.class
+ec\edu\uees\akinator\PrimaryController.class
+ec\edu\uees\akinator\SecondaryController.class
+ec\edu\uees\akinator\SecondaryController$1.class
+ec\edu\uees\akinator\TertiaryController.class

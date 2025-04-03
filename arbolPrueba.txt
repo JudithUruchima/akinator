@@ -1,0 +1,55 @@
+Rana
+Mariposa
+¿Puede volar?
+Salamandra
+¿Tiene cola?
+Serpiente
+Iguana
+Lagartija
+¿Su tamaño es pequeño?
+¿Es tranquila/o?
+Cocodrilo
+Tiburón
+¿Tiene branquias?
+Pez payaso
+¿Tiene muchos colores?
+¿Vive en el agua?
+¿Tienes escamas?
+Loro
+Canario
+Tucán
+¿Su pico es de colores?
+¿Su tamaño es pequeño?
+Águila
+Halcón
+¿Es más grande que el águila?
+¿Es una aves rapaz?
+¿Tiene plumas?
+Murciélago
+Ballena
+¿Nada en el agua?
+Rinoceronte
+Cebra
+Lobo
+¿Es carnívoro?
+Vaca
+¿Suele estar en granjas?
+¿Suelen estar en manada?
+Mono
+¿Le gusta estar en árboles?
+Perro
+Gato
+¿Es felino?
+¿Es doméstico?
+Elefante
+¿Tiene trompa?
+León
+Leopardo
+Oso panda
+Capibara
+¿Es roedor?
+¿Es vegetariano?
+¿No posee melena?
+¿Tienes garras afiladas?
+¿Es terrestre?
+¿Es mamífero?

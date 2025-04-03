@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="629.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ec.edu.uees.akinator.AkinatorGame">
+   <children>
+      <Label fx:id="lblpregunta" alignment="CENTER" layoutX="299.0" layoutY="89.0" prefHeight="18.0" prefWidth="279.0" text="Pregunta" textAlignment="CENTER" />
+      <Button fx:id="btnSi" layoutX="365.0" layoutY="226.0" mnemonicParsing="false" onMouseClicked="#responderSi" text="si" />
+      <Button fx:id="btnNo" layoutX="489.0" layoutY="226.0" mnemonicParsing="false" onMouseClicked="#responderNo" text="no" />
+      <Label fx:id="lblrespuesta" alignment="CENTER" layoutX="20.0" layoutY="275.0" prefHeight="18.0" prefWidth="279.0" text="Analizando..." textAlignment="CENTER" />
+      <ImageView fx:id="imageView" fitHeight="150.0" fitWidth="200.0" layoutX="70.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true" />
+   </children>
+</AnchorPane>

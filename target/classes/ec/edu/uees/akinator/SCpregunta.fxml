@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane stylesheets="@retroprim.css" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ec.edu.uees.akinator.TertiaryController">
+   <children>
+      <BorderPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="446.0" prefWidth="814.0">
+         <center>
+            <VBox alignment="CENTER" prefHeight="301.0" prefWidth="773.0" BorderPane.alignment="CENTER" />
+         </center>
+         <bottom>
+            <VBox prefHeight="107.0" prefWidth="814.0" BorderPane.alignment="CENTER">
+               <children>
+                  <HBox prefHeight="32.0" prefWidth="814.0" styleClass="textured-box" VBox.vgrow="ALWAYS" />
+                  <HBox alignment="CENTER" prefHeight="79.0" prefWidth="814.0" styleClass="textured-box1" VBox.vgrow="ALWAYS" />
+               </children>
+            </VBox>
+         </bottom>
+      </BorderPane>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <ImageView fitHeight="549.0" fitWidth="763.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@ventana.png" />
+               </image>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets bottom="70.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="580.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@almohada.png" />
+               </image>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets bottom="6.0" left="110.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="TOP_RIGHT" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="417.0" fitWidth="278.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@luz.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="368.0" fitWidth="303.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@luz.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fx:id="imgGenio" fitHeight="349.0" fitWidth="275.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@genio_4.png" />
+               </image></ImageView>
+         </children>
+         <padding>
+            <Insets bottom="110.0" left="200.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="220.0" fitWidth="338.0" pickOnBounds="true" preserveRatio="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets bottom="450.0" left="460.0" />
+               </VBox.margin>
+               <image>
+                  <Image url="@burbuja1.png" />
+               </image>
+            </ImageView>
+         </children>
+         <StackPane.margin>
+            <Insets />
+         </StackPane.margin>
+      </VBox>
+      <VBox fx:id="vboxbur" alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <ImageView fitHeight="290.0" fitWidth="394.0" pickOnBounds="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets bottom="330.0" right="300.0" />
+               </VBox.margin>
+               <image>
+                  <Image url="@burbuja2.png" />
+               </image>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox fx:id="vboxlblpreg" alignment="BOTTOM_CENTER" prefHeight="730.0" prefWidth="814.0">
+         <children>
+            <Label fx:id="lblPregunta" alignment="CENTER" prefHeight="110.0" prefWidth="287.0" styleClass="textfield-akinator" text="ddddddddddddddddddssssdddddddddddddddddd" textAlignment="CENTER" textFill="RED" wrapText="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Label>
+         </children>
+         <padding>
+            <Insets bottom="485.0" right="310.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="680.0" prefWidth="814.0">
+         <children>
+            <Label fx:id="lblPreguntaBase" alignment="CENTER" contentDisplay="CENTER" prefHeight="106.0" prefWidth="258.0" styleClass="textfield-akinator" text="gggggggggggggggggggggggggggggggggggggg" textAlignment="CENTER" wrapText="true" VBox.vgrow="ALWAYS">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Label>
+         </children>
+         <padding>
+            <Insets bottom="535.0" left="450.0" />
+         </padding>
+      </VBox>
+      <VBox visible="false" StackPane.alignment="CENTER">
+         <children>
+            <VBox prefHeight="734.0" prefWidth="814.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <HBox prefHeight="674.0" prefWidth="814.0">
+                     <children>
+                        <VBox prefHeight="602.0" prefWidth="519.0">
+                           <children>
+                              <TextField />
+                           </children>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                           <padding>
+                              <Insets bottom="70.0" left="110.0" right="50.0" top="260.0" />
+                           </padding>
+                        </VBox>
+                        <VBox prefHeight="602.0" prefWidth="442.0">
+                           <children>
+                              <TextField />
+                           </children>
+                           <padding>
+                              <Insets bottom="60.0" left="60.0" right="60.0" top="180.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                  </HBox>
+                  <VBox alignment="CENTER" prefHeight="339.0" prefWidth="814.0">
+                     <children>
+                        <Button contentDisplay="CENTER" mnemonicParsing="false" prefHeight="142.0" prefWidth="166.0" text="Button">
+                           <graphic>
+                              <ImageView fitHeight="78.0" fitWidth="130.0" pickOnBounds="true">
+                                 <image>
+                                    <Image url="@boton0.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="370.0" prefWidth="814.0">
+         <children>
+            <VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="734.0" prefWidth="705.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <HBox prefHeight="429.0" prefWidth="691.0">
+                     <children>
+                        <VBox prefHeight="394.0" prefWidth="586.0">
+                           <children>
+                              <TextField fx:id="txtNuevaPregunta" alignment="TOP_LEFT" prefHeight="102.0" prefWidth="307.0" promptText="No olvides los signos ¿?" styleClass="textfield-pergamino0" stylesheets="@txturx2.css" />
+                           </children>
+                           <padding>
+                              <Insets bottom="50.0" left="40.0" right="50.0" top="235.0" />
+                           </padding>
+                        </VBox>
+                        <VBox prefHeight="306.0" prefWidth="497.0">
+                           <children>
+                              <TextField fx:id="txtNuevoAnimal" prefHeight="55.0" prefWidth="188.0" promptText="animal" styleClass="textfield-pergamino1" stylesheets="@txturx2.css" />
+                           </children>
+                           <padding>
+                              <Insets left="110.0" right="5.0" top="200.0" />
+                           </padding>
+                        </VBox>
+                     </children>
+                  </HBox>
+                  <VBox alignment="BOTTOM_CENTER" prefHeight="218.0" prefWidth="706.0">
+                     <children>
+                        <Button fx:id="btnGuardar" contentDisplay="CENTER" mnemonicParsing="false" onMouseClicked="#guardarNuevoAnimal" prefHeight="142.0" prefWidth="218.0" styleClass="textfield-akinator" text="Guardar">
+                           <graphic>
+                              <ImageView fitHeight="88.0" fitWidth="197.0" pickOnBounds="true">
+                                 <image>
+                                    <Image url="@boton0.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </children>
+</StackPane>

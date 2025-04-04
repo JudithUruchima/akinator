@@ -1,18 +1,18 @@
 Platelminto
-Hydra
+Hydra viridis
 Coral
 ¿Es colonial?
 Medusas
 ¿Tiene forma radial?
 ¿Es un celéntero?
 Esponja ostra
-Esponja amarilla
+Aplysina fistularis
 ¿Es tubular?
 ¿Es porífero?
 Nematoda
 Lombriz de tierra
 ¿Está segmentado?
-Lugworm
+Arenicola
 Planaria
 ¿Es pequeño?
 ¿Es acuático?
@@ -20,7 +20,7 @@ Planaria
 Pepino de mar
 Erizo de mar
 ¿Tiene un cuerpo esférico?
-Ofiuras
+Ophiuroidea
 Estrella de mar
 ¿Tiene forma de estrella?
 ¿Tiene múltiples brazos?
@@ -145,7 +145,7 @@ Puma
 ¿Es  felino?
 Canguro
 ¿Es herbívoro?
-Tejón
+Tejon europeo
 Mapache
 ¿Vive en zonas urbanas?
 ¿Es omnívoro?
@@ -159,12 +159,12 @@ Jaguar
 ¿Es grande?
 ¿Es carnívoro?
 ¿Vive en la selva?
-Ardilla voladora
+Pteromyini
 Lémur
 Mono
 ¿Tiene una cola prensil para sostenerse?
 ¿Es mediano?
-Oso perezoso
+Perezosos
 Panda rojo
 ¿Tiene pelaje rojizo?
 Orangután

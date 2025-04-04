@@ -59,9 +59,9 @@ public class TertiaryController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        
+
         animacion.animacionGenio(imgGenio);
-        
+
         Font.loadFont(App.class.getResourceAsStream("font/Minangkabau.TTF"), 20);
 
         // Ocultar VBoxes al inicio
@@ -184,6 +184,9 @@ public class TertiaryController implements Initializable {
             nuevoStage.getIcons().add(new Image(App.class.getResourceAsStream("icono.png")));
             nuevoStage.setTitle("Akinator Game");
             nuevoStage.setScene(new Scene(root));
+            nuevoStage.setResizable(false); // Desactiva el cambio de tamaño
+            nuevoStage.setMaximized(false);
+
             nuevoStage.show();
         } catch (IOException e) {
             e.printStackTrace();

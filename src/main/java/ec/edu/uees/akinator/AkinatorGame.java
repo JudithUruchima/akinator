@@ -5,8 +5,6 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
-import javafx.animation.Animation;
-import javafx.animation.TranslateTransition;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -19,7 +17,6 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
-import javafx.util.Duration;
 import modelo.BT;
 
 public class AkinatorGame implements Initializable {
@@ -166,6 +163,8 @@ public class AkinatorGame implements Initializable {
                 stage.setScene(scene);
 
                 stage.setMaximized(estabaMaximizada);
+                stage.setResizable(false); // Desactiva el cambio de tamaño
+                stage.setMaximized(false);
 
                 stage.show();
 

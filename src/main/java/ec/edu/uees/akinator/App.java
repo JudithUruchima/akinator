@@ -33,6 +33,8 @@ public class App extends Application {
 
         stage.setScene(scene);
         stage.getIcons().add(new Image(App.class.getResourceAsStream("icono.png")));
+        stage.setResizable(false); // Desactiva el cambio de tamaño
+        stage.setMaximized(false); 
         stage.show();
         MusicPlayer.playBackgroundMusic();
     }

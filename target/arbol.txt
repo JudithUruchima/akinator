@@ -1,0 +1,225 @@
+Platelminto
+Hydra
+Coral
+¿Es colonial?
+Medusas
+¿Tiene forma radial?
+¿Es un celéntero?
+Esponja ostra
+Esponja amarilla
+¿Es tubular?
+¿Es porífero?
+Nematoda
+Lombriz de tierra
+¿Está segmentado?
+Lugworm
+Planaria
+¿Es pequeño?
+¿Es acuático?
+¿Es un gusano?
+Pepino de mar
+Erizo de mar
+¿Tiene un cuerpo esférico?
+Ofiuras
+Estrella de mar
+¿Tiene forma de estrella?
+¿Tiene múltiples brazos?
+Calamar
+Pulpo
+¿Tiene tentáculos largos?
+Mejillón
+Caracol
+¿Tiene una concha única?
+¿Tiene concha o caparazón?
+¿Es un molusco?
+Araña
+Pulga
+¿Es un parásito hematófago?
+Camarón
+¿Vive en el agua?
+Cangrejo
+¿Tiene caparazón o concha?
+Mariposa
+Cigarra
+¿Produce un sonido característico?
+Libélula
+Mariquitas
+¿Tiene un color característico?
+Mosquito
+¿Puede transmitir enfermedades?
+¿Son depredadoras?
+Polilla
+Cucaracha
+Grillo
+¿Produce un sonido característico?
+Mantis religiosa
+¿Es depredadora?
+Escarabajo
+¿Pertenece a la orden Coleóptera?
+¿Es resistente?
+¿Son nocturnas?
+¿Tiene alas?
+¿Es un artrópodo?
+¿Tiene protección?
+Sapo
+Rana
+¿Tiene la piel lisa y húmeda?
+Ajolote
+¿Vive en el agua toda su vida?
+Serpiente
+Dragón de Komodo
+Cocodrilo
+¿Hace el giro de la muerte?
+Tortuga
+¿Tiene caparazón?
+Iguana
+Camaleón
+¿Puede cambiar de color?
+¿Es pequeño?
+¿Tiene patas?
+¿Es un reptil?
+Mixino
+Mantarraya
+Tiburón ballena
+¿Filtra plancton?
+Tiburón
+¿Es depredador?
+¿Es grande?
+Anguila eléctrica
+Pez dorado
+¿Respira por las branquias principalmente?
+Salmón
+¿Es migratorio?
+Caballo de mar
+Pez payaso
+¿Es pequeño y colorido?
+Atún
+Pez espada
+¿Tiene un pico?
+¿Es grande?
+¿Vive en agua salada?
+¿Es un pez óseo?
+¿Es un pez?
+Signo de interrogación
+Gallina
+Pingüino
+¿Es acuático?
+Ñandú
+Avestruz
+¿Tiene dos dedos?
+¿Es grande?
+Pato
+Cacatúa
+¿Es pequeño y colorido?
+Águila
+¿Es un depredador?
+¿Puede volar?
+¿Tiene plumas?
+Marsopa
+Delfín
+¿Tiene un hocico alargado?
+Narval
+¿Posee un colmillo en espiral?
+Foca
+León marino
+Nutria
+Castor
+¿Es herbívoro?
+¿Construye madrigueras en las orillas?
+¿Tiene orejas?
+Ornitorrinco
+¿Pone huevos?
+¿Puede vivir fuera del agua?
+Ballena
+Manatí
+¿Es herbívoro?
+Orca
+Hipopótamo
+Morsa
+¿Tiene la piel arrugada?
+¿Puede vivir fuera del agua?
+¿Vive en sociedad?
+¿Es muy grande?
+Oso
+Puma
+¿Es  felino?
+Canguro
+¿Es herbívoro?
+Tejón
+Mapache
+¿Vive en zonas urbanas?
+¿Es omnívoro?
+Zarigüeya
+Tapir
+Capibara
+¿Es roedor?
+¿Es herbívoro?
+Ocelote
+Jaguar
+¿Es grande?
+¿Es carnívoro?
+¿Vive en la selva?
+Ardilla voladora
+Lémur
+Mono
+¿Tiene una cola prensil para sostenerse?
+¿Es mediano?
+Oso perezoso
+Panda rojo
+¿Tiene pelaje rojizo?
+Orangután
+¿Se balancea entre ramas?
+¿Su tamaño es grande?
+¿Usualmente vive en los árboles?
+Perro
+Alpaca
+¿Es herbívoro?
+Lama glama
+¿Sirve de transporte?
+Erizo
+¿Tiene púas?
+Gato
+Cuy
+¿Es roedor?
+¿Posee garras?
+Cerdo
+Caballo
+¿Es más grande que un humano?
+Vaca
+Poni
+Chivo
+¿Tiene cuernos?
+¿Es pequeño?
+¿Es rumiante?
+¿Tiene pezuñas?
+¿Es doméstico?
+Pangolín
+Murciélago
+¿Vuela para cazar insectos?
+Suricata
+Armadillo
+¿Excava en busca de comida?
+¿Es omnívoro?
+Guepardo
+León
+Hiena
+¿Se alimenta de carroña principalmente?
+¿Caza en grupo?
+¿Es carnívoro?
+Rinoceronte
+Elefante
+¿Tiene trompa?
+Cebra
+Antílope
+¿Tiene cuernos?
+¿Su piel tiene un patrón de rayas?
+Alces alces
+Jirafa
+¿Tiene un cuello largo?
+¿Es muy alto?
+¿Es herbívoro?
+¿Vive principalmente en la sabana?
+¿Es mayormente terrestre?
+¿Es mamífero?
+¿Es de sangre caliente?
+¿Es vertebrado?

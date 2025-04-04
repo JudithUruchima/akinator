@@ -1,6 +1,7 @@
 ec\edu\uees\akinator\AkinatorGame.class
 ec\edu\uees\akinator\SoundFX.class
 modelo\BT.class
+ec\edu\uees\akinator\Principal.class
 modelo\BT$Node.class
 ec\edu\uees\akinator\HumoAnimator.class
 ec\edu\uees\akinator\WikipediaImageFetcher.class
